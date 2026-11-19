@@ -21,4 +21,4 @@ Make Minecraft feel like your own with Sakura Styles.
 
 ⸻
 
-An independent Minecraft project. Not affiliated with Mojang or Microsoft.
+*An independent Minecraft project. Not affiliated with Mojang or Microsoft.*
