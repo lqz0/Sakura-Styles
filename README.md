@@ -1,8 +1,8 @@
-🌸 Sakura Styles
+# 🌸 Sakura Styles
 
 Your Minecraft. Your Style. Your Aesthetic.
 
-Sakura Styles is a Minecraft customization mod focused on bringing a fresh and personalized look to your game.
+**Sakura Styles is a Minecraft customization mod focused on bringing a fresh and personalized look to your game.**
 
 Explore different visual styles, customize your experience and give your Minecraft world a unique aesthetic.
 
